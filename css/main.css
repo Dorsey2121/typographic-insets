@@ -115,22 +115,8 @@ blockquote {
   margin-left: -6em;
 }
 
-header {
-  margin-left: -10em;
-  padding-left: 10em;
-}
 
-footer {
-  margin-left: -10em;
-  padding-left: 10em;
-}
 
-main {
-}
-
-body{
-  padding-left: 4em;
-}
 
 main > p:first-child::first-letter {
   float: left;
