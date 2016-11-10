@@ -127,6 +127,6 @@ main > p:first-child::first-letter {
   border-bottom: solid black 3px;
   margin-right: .1em;
   margin-top: .1em;
-  margin-left: -1em;
   padding: .1em .2em;
+  margin-left: -10px;
 }
