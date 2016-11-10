@@ -91,7 +91,6 @@ footer {
 figure {
   float: right;
   width: 300px;
-  padding: 6px 0px;
   border-top: solid black 3px;
   border-bottom: solid black 3px;
   margin-right: -7rem;
@@ -103,10 +102,9 @@ figcaption {
 }
 
 blockquote {
-  float:left;
+  float: left;
   width: 300px;
   font-size: 1.5rem;
-  padding: 6px 0px;
   border-top: solid black 3px;
   border-bottom: solid black 3px;
   text-align: right;
@@ -114,9 +112,6 @@ blockquote {
   margin-right: 1em;
   margin-left: -6em;
 }
-
-
-
 
 main > p:first-child::first-letter {
   float: left;
